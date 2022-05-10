@@ -1,4 +1,4 @@
-# Exampple Repository
+# Example Repository
 ## Second heading
 ### Third heading
 description
